@@ -1,2 +1,2 @@
 # Python Projects
-Small apps I coded in Python for fun and learning.
+Small apps I coded in Python while learning
