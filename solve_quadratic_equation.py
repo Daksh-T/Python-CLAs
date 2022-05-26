@@ -13,3 +13,4 @@ sol2 = (-b-cmath.sqrt(D))/2*a
 print("The Discriminant is : ", D,)
 print("The first solution is : ", sol1)
 print("The second solution is : ", sol2)
+input("Press enter to close")
