@@ -31,5 +31,7 @@ elif f == "":
     v =float(v)
     f = (u*v)/(v+u)
     print("The value of f is ", f)
+else:
+    print("Invalid input!")
 
 input("Press enter to close")
