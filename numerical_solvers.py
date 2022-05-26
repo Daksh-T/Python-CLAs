@@ -1,6 +1,7 @@
 import time
 import os
 
+# Define the function to clear screen
 def clear():
     if (os.name == 'posix'):
         os.system('clear')
@@ -8,6 +9,8 @@ def clear():
         os.system('cls')
 
 clear()
+
+# Loop the main screen UI
 while 1==1:
     clear()
     print("Hello there!")
@@ -17,7 +20,7 @@ while 1==1:
     print("3. Exit")
     choice = int(input("(1/2/3) "))
 
-
+# Mirror calculator
     if choice == 1:
         clear()
         while 1==1:
@@ -27,7 +30,6 @@ while 1==1:
             u = input("What is the object distance (u)? ")
             v = input("What is the mirror distance (v)? ")
             clear()
-
 
             if v == "":
                 u = float(u)
@@ -48,11 +50,12 @@ while 1==1:
                 print("Invalid input!")
 
             inp = input("Press enter to restart or q to quit ")
-            if inp == "q":
+            if inp == "q":             
                 break
             else:
                 clear()
 
+# Lens calculator
     elif choice == 2:
         clear()
         while 1==1:
@@ -62,7 +65,6 @@ while 1==1:
             u = input("What is the object distance (u)? ")
             v = input("What is the mirror distance (v)? ")
             clear()
-
 
             if v == "":
                 u = float(u)
@@ -83,14 +85,18 @@ while 1==1:
                 print("Invalid input!")
 
             inp = input("Press enter to restart or q to quit ")
-            if inp == "q":
+            if inp == "q":             
                 break
             else:
                 clear()
+
+# Exit                
     elif choice == 3:
         print("Goodbye!")
         time.sleep(1)
         exit()
+        
+# Any input other than 1/2/3 is invalid
     else:
         input("Invalid input!")
         clear()
