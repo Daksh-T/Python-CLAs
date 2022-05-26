@@ -92,10 +92,11 @@ while 1==1:
 
 # Exit                
     elif choice == 3:
+        clear()
         print("Goodbye!")
         time.sleep(1)
         exit()
-        
+
 # Any input other than 1/2/3 is invalid
     else:
         input("Invalid input!")
