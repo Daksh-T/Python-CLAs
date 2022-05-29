@@ -14,7 +14,7 @@ while 1==1:
     print("Please enter the values with the appropriate sign!")
     f = input("What is the focal length (f) ? ")
     u = input("What is the object distance (u)? ")
-    v = input("What is the mirror distance (v)? ")
+    v = input("What is the image distance (v)? ")
     clear()
 
 
