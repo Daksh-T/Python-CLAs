@@ -2,9 +2,7 @@ import time
 import random
 
 print("Hello world!")
-time.sleep(3)
-print("Hello again!")
-time.sleep(1)
+time.sleep(2)
 print("I am thinking of a number between 1 and 10.")
 time.sleep(1)
 print("Take a guess.")
