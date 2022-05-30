@@ -11,5 +11,5 @@ A compact app that solves the quadratic equation and returns the roots.
 ## Spherical Lens/Mirror Solver
 A small app that can solve numericals involving spherical mirror/lens's image distance, object distance and focal length.
 
-## Take a guess
+## Take a Guess
 A fun app that generates a random number between 1-10 and asks you to take a guess!
