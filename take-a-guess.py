@@ -10,5 +10,6 @@ time.sleep(1)
 print("Take a guess.")
 guess = int(input())
 if guess == random.randint(1, 10):
-    print("You guessed it!")
-else: print("Sorry, you guessed it wrong.")
+    input("You guessed it!")
+else: 
+    input("Sorry, you guessed it wrong.")
