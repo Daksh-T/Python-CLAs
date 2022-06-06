@@ -1,0 +1,7 @@
+
+vscode:
+  extensions:
+    - GitHub.github-vscode-theme
+    - eamodio.gitlens
+    - ms-python.python
+    - TabNine.tabnine-vscode
