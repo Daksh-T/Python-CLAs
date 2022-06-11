@@ -7,3 +7,8 @@ tasks:
           [[ ! -z $SSH_PRIVATE_KEY  ]] &&
           echo $SSH_PRIVATE_KEY | base64 -d > ~/.ssh/id_rsa &&
           chmod 600 ~/.ssh/id_rsa
+vscode:
+  extensions:
+    - ms-python.python
+    - TabNine.tabnine-vscode
+    - eamodio.gitlens
