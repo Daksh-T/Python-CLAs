@@ -13,3 +13,6 @@ A small app that can solve numericals involving spherical mirror/lens's image di
 
 ## Take a Guess
 A fun app that generates a random number between 1-10 and asks you to take a guess!
+
+## System Resources Viewer
+A small applet to display CPU, RAM and storage usage
