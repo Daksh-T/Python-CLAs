@@ -39,7 +39,9 @@
 			"extensions": [
 				"ms-python.python",
 				"ms-python.vscode-pylance",
-				"eamodio.gitlens"
+				"eamodio.gitlens",
+				"GitHub.copilot",
+				"GitHub.copilot-labs"
 			]
 		}
 	},
