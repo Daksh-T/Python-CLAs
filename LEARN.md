@@ -12,6 +12,6 @@ Before I dipped my toes into Python back again, I decided to learn Git and I tha
 
 My decision making process was very random, I just made anything that I thought was good enough to be converted to a Python program. I looked up anything that I didn't already know or needed help implementing and almost immediately found what I needed. How to properly search up error codes or how to properly frame questions is a must for every programmer.
 
-# Where to go from here
+# Where I go from here
 
 Since I wrote this LEARN.md, I've actually fallen back to my old lazy behavior and so now I am looking once again to find something that will bring back the same old curiosity and creativity that I had when originally making this. As I said before, the main aim is learning something new!
